@@ -1,0 +1,24 @@
+Terms
+
+MS  : Main memory Size
+CS  : L1 cache Size
+CS1 : Victim cache Size
+CS2 : L2 cache Size
+k   : No. of ways
+BS  : Block Size
+NB  : No. of blocks 
+NL  : No. of lines of L1 cache
+NL1 : No. of lines of Victim cache 
+NL2 : No. of lines of L2 cache
+NS  : No. of sets
+BO  : Block Offset
+BI  : Block Index
+CI  : Cache Index
+SI  : Set Index
+PA  : Physical Address
+TB  : Tag bit of L1 Cache
+TB1 : Tag bit of Victim Cache
+TB2 : Tag bit of L2 Cache
+d   : L1 cache dictionary
+d1  : Victim cache dictionary
+d2  : L2 cache dictionary
